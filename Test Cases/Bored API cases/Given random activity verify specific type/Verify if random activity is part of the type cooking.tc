@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if random activity is part of the type cooking</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4ac2a2f-2d4b-4897-b10d-caa0ec050438</testCaseGuid>
+</TestCaseEntity>

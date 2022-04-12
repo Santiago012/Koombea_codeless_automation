@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify if random activity is part of the type relaxation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d89b8bca-e3f1-4eec-b36a-c0bade67ab95</testCaseGuid>
+</TestCaseEntity>
